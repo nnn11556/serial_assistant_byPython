@@ -1,0 +1,2 @@
+# python_serial_assistant
+这是使用python serial模块制作的一个简单的串口调试助手，同时用PyQt5做了一个简单的界面，主要是自己学习，参考了网上一些人的博客最终完成了这个调试助手。
